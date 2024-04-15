@@ -1,6 +1,52 @@
 # nineai3.4-3.5魔改版
 
-nineAI 魔改版：基于 NineAI 二开的可商业化 AI Web 应用（免授权，无后门，支持快速部署）
+nineAI 魔改版：基于 NineAI 二开的可商业化 AI Web 应用（免授权，无后门，支持快速部署）<br>
+[第三方下载](https://www.123pan.com/s/jT3Rjv-AHvjH.html)
+##### <div class="notice_block">
+  <h2 style="color:red">欢迎光临棚子AI官网</h2>
+  <div class="notice">
+  <div class="message red">
+    <span class="brage"></span>
+       基本介绍</div>
+  <div style="color:red;">🔥当前ChatGPT-3.5系列不限制次数 详情查看套餐说明</div>
+    <div style="color:red;">🔥当前stable-diffusion免费画画-对话框现在对应模型</div>
+  <div style="color:red;">🔥本站已接入AI音乐，文生视频，生成需等待4-5分钟</div>
+    
+- 棚子AI系统已支持 OpenAI GPT全模型 + 国内部分AI模型
+- 支持GPts预设
+- 插件系统功能
+- TTS语音对话功能、图片,文档分析功能
+- MJ文生图、垫图、AI换脸、混图、Dall-E3绘画
+- 如需应用中心预设请联系本站客服添加
+- 邮箱注册需要去邮箱激活
+- <a href="https://www.yuque.com/pengzi-nvkpb/knii6t/an7ts0myl4ufm9md" target="_blank">《使用教程》</a ><a href="https://a.wpzllq.top" target="_blank">《官方网站》</a >
+  </div>
+ <h style="color: #007bff; text-decoration: none;">微信：kaixindian03<br>
+ <a href="http://wpzllq.cn/" target="_blank">博客：wpzllq.cn</a>
+   <br><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2330359217&amp;site=qq&amp;menu=yes" class="link" id="qq" target="_blank">QQ:2330359217</a>
+    
+      
+</div>
+      
+  <div class="notice">
+<div class="notice_block">
+  <div class="message red">
+    <span class="brage"></span>
+      务必阅读</div>
+ 请合理合规使用，请勿使用违规词或敏感词对话聊天与生成图片
+多次触发系统敏感词检测到将永久封号、严重违规将直接封禁IP、永久限制注册
+  </div>
+ 
+  <div class="notice">
+<div class="notice_block">
+ <div class="message red">
+						<span class="brage"></span>
+						关于本站
+					</div>
+					<a href="https://www.yuque.com/pengzi-nvkpb/knii6t/aiptymo5b7mg8spu/edit" target="_blank">《用户协议》</a> <a
+						href="https://www.gov.cn/zhengce/zhengceku/202307/content_6891752.htm#:~:text=%E3%80%8A%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD,%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%E3%80%82">《生成式人工智能》</a>
+				</div>
+
 
 ## 页面预览
 
@@ -77,6 +123,17 @@ NineAi 程序安装还是比较复杂的。建议使用比较干净的主机来�
 
 2. **访问项目**
    - 在浏览器中访问`http://localhost:9520`，或者如果配置了 nginx 反向代理，则通过配置的域名访问。
+
+   ## 应用广场500+
+
+    APP应用数据导入步骤（仅首次成功运行启动项目后导入一次，更新系统再次无需导入）：
+    1.系统必须先成功运行启动
+    2.正确配置COS存储
+    3.使用宝塔的phpmyadmin导入或其他sql导入工具
+    app_cats.sql：应用分类数据
+    app.sql：APP应用数据
+    先导入app_cats.sql文件
+    再导入app.sql
 
 ## 管理平台
 
